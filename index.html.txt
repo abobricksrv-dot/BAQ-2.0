@@ -3,24 +3,31 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Início - Arqueologia</title>
+  <title>BAQ 2.0 - Início</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>Projeto de Arqueologia</h1>
+    <h1>BAQ 2.0</h1>
     <nav>
-      <a href="index.html">Início</a>
-      <a href="artefatos.html">Artefatos</a>
-      <a href="exploracoes.html">Explorações</a>
-      <a href="equipe.html">Equipe</a>
-      <a href="contato.html">Contato</a>
+      <ul>
+        <li><a href="index.html" class="ativo">Início</a></li>
+        <li><a href="artefatos.html">Artefatos</a></li>
+        <li><a href="exploracoes.html">Explorações</a></li>
+        <li><a href="equipe.html">Equipe</a></li>
+        <li><a href="contato.html">Contato</a></li>
+      </ul>
     </nav>
   </header>
+
   <main>
-    <h2>Bem-vindo ao nosso projeto!</h2>
-    <p>Este é um portal para explorar artefatos, locais e descobertas arqueológicas.</p>
+    <h2>Bem-vindo ao Projeto BAQ 2.0</h2>
+    <p>Nosso projeto de arqueologia tem como objetivo explorar, catalogar e compreender os artefatos encontrados em escavações simuladas.</p>
+    <p>Acesse as outras páginas para conhecer nossa equipe, os artefatos e o processo de exploração!</p>
   </main>
-  <footer>© 2025 Equipe de Arqueologia</footer>
+
+  <footer>
+    <p>© 2025 BAQ 2.0 — Todos os direitos reservados.</p>
+  </footer>
 </body>
 </html>
