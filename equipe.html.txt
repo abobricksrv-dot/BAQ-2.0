@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Equipe</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Nossa Equipe</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="artefatos.html">Artefatos</a>
+      <a href="exploracoes.html">Explorações</a>
+      <a href="equipe.html" class="ativo">Equipe</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Quem somos</h2>
+    <p>Conheça os pesquisadores e estudantes que fazem parte do projeto.</p>
+  </main>
+  <footer>© 2025 Equipe de Arqueologia</footer>
+</body>
+</html>

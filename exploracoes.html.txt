@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Explorações</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Locais de Exploração</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="artefatos.html">Artefatos</a>
+      <a href="exploracoes.html" class="ativo">Explorações</a>
+      <a href="equipe.html">Equipe</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Descobertas pelo Mundo</h2>
+    <p>Explore os locais onde foram encontradas relíquias históricas.</p>
+  </main>
+  <footer>© 2025 Equipe de Arqueologia</footer>
+</body>
+</html>

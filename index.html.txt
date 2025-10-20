@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Início - Arqueologia</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Projeto de Arqueologia</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="artefatos.html">Artefatos</a>
+      <a href="exploracoes.html">Explorações</a>
+      <a href="equipe.html">Equipe</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Bem-vindo ao nosso projeto!</h2>
+    <p>Este é um portal para explorar artefatos, locais e descobertas arqueológicas.</p>
+  </main>
+  <footer>© 2025 Equipe de Arqueologia</footer>
+</body>
+</html>

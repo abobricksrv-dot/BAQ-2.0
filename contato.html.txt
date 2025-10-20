@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Contato</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Contato</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="artefatos.html">Artefatos</a>
+      <a href="exploracoes.html">Explorações</a>
+      <a href="equipe.html">Equipe</a>
+      <a href="contato.html" class="ativo">Contato</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Fale conosco</h2>
+    <p>Envie uma mensagem ou entre em contato com a equipe.</p>
+  </main>
+  <footer>© 2025 Equipe de Arqueologia</footer>
+</body>
+</html>
